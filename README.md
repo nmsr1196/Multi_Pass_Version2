@@ -135,7 +135,11 @@ You will have to change the following because in order to get to ‘Fhloston Par
 
 - multipass3.wav - Wav file for Leeloo's voice
 
-- 
+- Multipass_TOP_V2.stl - 3D model for multipass top
+
+- Multipass_BOTTOM_V2.stl - 3D model for multipass bottom
+
+
 
 
 
