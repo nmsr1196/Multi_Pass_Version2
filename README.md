@@ -1,6 +1,6 @@
 # Multi_Pass_Version2
 MultiPass_VERSION 2
-Multi_Pass VERSION 2
+
 
 https://github.com/nmsr1196/Multi_Pass_Version2/blob/main/MultipassV2_TopView.jpg
 
