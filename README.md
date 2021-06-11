@@ -6,7 +6,7 @@ MultiPass_VERSION 2
 This document contains all aspects to completing this project. Please read before implementing. I will also supple the links. 
 I will also refer to VERSION 1 because there are some things that are similar. All files needed to create this project is included.
 
-BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS V2.
+### BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS V2.
 
 
 #### NEW FEATURES: 
