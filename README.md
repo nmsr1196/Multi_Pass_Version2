@@ -81,6 +81,8 @@ battery since it will be recharged by the power boost.
 
 - QT Py 2040 (https://www.adafruit.com/product/4900 )
 
+- Stemma Speaker (https://www.adafruit.com/product/3885)
+
 - 7 Jewel Neopixel (https://www.adafruit.com/product/2859 )  This goes into the lense disc hole
 
 - Mini On/Off button (https://www.adafruit.com/product/3870) Power button. If you choose to use a different button, hot glue is your friend, or 3D print some to 
@@ -138,6 +140,8 @@ You will have to change the following because in order to get to ‘Fhloston Par
 - Multipass_TOP_V2.stl - 3D model for multipass top
 
 - Multipass_BOTTOM_V2.stl - 3D model for multipass bottom
+
+- Multipass_V2.py - This is the CircuitPython code. You will need to rename this file to 'code.py' and load libraries listed in code.
 
 
 
