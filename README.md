@@ -9,7 +9,7 @@ I will also refer to VERSION 1 because there are some things that are similar. A
 BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS V2.
 
 
-# NEW FEATURES: <h3>
+# NEW FEATURES: <h6>
 
 - LEDs for the stem/rod
 
