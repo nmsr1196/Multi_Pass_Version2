@@ -143,6 +143,10 @@ You will have to change the following because in order to get to ‘Fhloston Par
 
 - Multipass_V2.py - This is the CircuitPython code. You will need to rename this file to 'code.py' and load libraries listed in code.
 
+- Multipass_V2_Rod.stl - This is the acrylic rod for laser cutting. This measures 3.99mm x 40.9mm. You may have to adjust for 3D printing dependant on material.
+
+- Multpass_V2_lense.svg - This is the acrylic rod for laser cutting. This measures 25.8mm. You may have to adjust for 3D printing dependant on material.
+
 
 
 
