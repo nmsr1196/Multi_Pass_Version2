@@ -28,7 +28,7 @@ refer to VERSION 1 because there are some things that are similar. All files nee
 
 THIS PROJECT USES CIRCUITPYTHON.
 
-The code file ‘MultiPassV2_SR.py’ has to be changed to ‘code.py’ for the QT Py 2040
+The code file ‘Multipass_V2.py’ has to be changed to ‘code.py’ for the QT Py 2040. Also in the code ignore the two lines 'button'. Its not being used in the code
 
 #### WIRING: 
 
@@ -61,7 +61,7 @@ of version 1. Remix of a remix of a remix of a remix and on  and on.
 
 - The parts are small so the cuts are fast and simple.
 
-- In this version 2 I made the  stem/rod slightly longer due to the slight change in the button geometry.
+- In this version 2, I made the  stem/rod slightly longer due to the slight change in the button geometry.
 
 
 #### POWER:
