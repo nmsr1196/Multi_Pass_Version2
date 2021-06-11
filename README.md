@@ -9,7 +9,7 @@ I will also refer to VERSION 1 because there are some things that are similar. A
 BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS V2.
 
 
-# NEW FEATURES: <h1>
+# NEW FEATURES: <h3>
 
 - LEDs for the stem/rod
 
@@ -24,23 +24,23 @@ BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIP
 - Sound (voice of Leeloo)
 
 
-# CODE: <h2>
+# CODE: <h3>
 
 THIS PROJECT USES CIRCUITPYTHON.
 
 The code file ‘MultiPassV2_SR.py’ has to be changed to ‘code.py’ for the QT Py 2040
 
-# WIRING: <h2>
+# WIRING: <h3>
 
 To try and keep a thin profile, I used wire-wrap. To insure connectivity, I also soldered the connections of the wire-wrap.
 
 
-# GLUE USED: <h2>
+# GLUE USED: <h3>
 
 I used hot glue to secure the parts. And just a small bead on the bottom of the QT Py 2040. But, be careful not to let it bleed into
 the bottom part as this could prevent the card from sliding in all the way to the back.
 
-# 3D PRINTING MODIFICATION FROM VERSION 1: <h2>
+# 3D PRINTING MODIFICATION FROM VERSION 1: <h3>
 
 As mentioned before, version 1 is a re-mix of the Ruiz brothers from a remix from a user ‘Level2three’. So, this one ‘version 2’ is a remix 
 
@@ -55,7 +55,7 @@ of version 1. Remix of a remix of a remix of a remix and on  and on.
 - Cavities were added for the three sequin leds 
 
 
-ACRYLIC:
+# ACRYLIC: <h3>
 
 - Acylic does not have to be used. A light diffusion 3D material can be used. For this version 2. I used  1/8” and 1/4” pieces.
 
