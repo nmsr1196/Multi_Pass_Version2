@@ -40,7 +40,7 @@ To try and keep a thin profile, I used wire-wrap. To insure connectivity, I also
 I used hot glue to secure the parts. And just a small bead on the bottom of the QT Py 2040. But, be careful not to let it bleed into
 the bottom part as this could prevent the card from sliding in all the way to the back.
 
-##### 3D PRINTING MODIFICATION FROM VERSION 1: <h3>
+#### 3D PRINTING MODIFICATION FROM VERSION 1: 
 
 As mentioned before, version 1 is a re-mix of the Ruiz brothers from a remix from a user ‘Level2three’. So, this one ‘version 2’ is a remix 
 
@@ -55,7 +55,7 @@ of version 1. Remix of a remix of a remix of a remix and on  and on.
 - Cavities were added for the three sequin leds 
 
 
-# ACRYLIC: <h3>
+#### ACRYLIC: 
 
 - Acylic does not have to be used. A light diffusion 3D material can be used. For this version 2. I used  1/8” and 1/4” pieces.
 
@@ -64,7 +64,7 @@ of version 1. Remix of a remix of a remix of a remix and on  and on.
 - In this version 2 I made the  stem/rod slightly longer due to the slight change in the button geometry.
 
 
-POWER:
+#### POWER:
 
 - You can use any size lips battery you like. Unlike version 1, I did not make a battery holder for this version. I put a dab of hot glue for the 
 
@@ -77,7 +77,7 @@ battery since it will be recharged by the power boost.
 - Diode - Used a diode to connect to 5 volt pin of the QT Py 2040. Cathode side to 5V pin of QT Py (https://learn.adafruit.com/adafruit-qt-py-2040/pinouts) Cathode
 
 
-BELOW ARE THE PARTS USED:
+#### BELOW ARE THE PARTS USED:
 
 - QT Py 2040 (https://www.adafruit.com/product/4900 )
 
@@ -110,7 +110,7 @@ on one end.
 - Light Cardstock or black paper or regular paper. The color and choice is up to you. I used a cricut to cut the shape.
 
 
-MULTIPASS CARD:
+#### MULTIPASS CARD:
 
 Movie Card
 
@@ -129,6 +129,6 @@ You will have to change the following because in order to get to ‘Fhloston Par
 - For the X-ray picture, Copy your original picture and use PS to ‘invert’ the image under ‘Image, ‘Adjustments’ the ‘Invert’ menu.
 
 
-FILES
+#### FILES
 
 
