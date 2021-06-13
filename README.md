@@ -83,7 +83,7 @@ battery since it will be recharged by the power boost.
 
 - Stemma Speaker (https://www.adafruit.com/product/3885)
 
-- 7 Jewel Neopixel (https://www.adafruit.com/product/2859 )  This goes into the lense disc hole
+- 7 Jewel Neopixel (https://www.adafruit.com/product/2859 )  This goes into the lens disc hole
 
 - Mini On/Off button (https://www.adafruit.com/product/3870) Power button. If you choose to use a different button, hot glue is your friend, or 3D print some to 
 
@@ -107,7 +107,7 @@ on one end.
 
 - 3D Material  I had some Prusa Silver PLA. You can use any color/material. I used silver because I did not want the cosplay police coming after me
 
-- Acrylic I used clear green 1/8” for the stem/rod and lense. Also for the lense, I used 1/4” green. As long as its diffusible, the choose is yours. 
+- Acrylic I used clear green 1/8” for the stem/rod and lense. Also for the lens, I used 1/4” green. As long as its diffusible, the choose is yours. 
 
 - Light Cardstock or black paper or regular paper. The color and choice is up to you. I used a cricut to cut the shape.
 
