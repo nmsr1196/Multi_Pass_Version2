@@ -3,7 +3,7 @@ MultiPass_VERSION 2
 
 ![Image of MultiPassV2](https://github.com/nmsr1196/Multi_Pass_Version2/blob/main/MultipassV2_TopView_.png)
 
-![Demo of MPv2](https://github.com/nmsr1196/Multi_Pass_Version2/blob/main/MultipassV2_Demo.mov)
+![Image of MPv2](https://github.com/nmsr1196/Multi_Pass_Version2/blob/main/MultipassV2_Demo.mov)
 
 This document contains all aspects to completing this project. Please read before implementing. I will also supply the links and
 refer to VERSION 1 because there are some things that are similar. All files needed to create this project are included.
