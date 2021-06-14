@@ -85,7 +85,7 @@ battery since it will be recharged by the power boost.
 
 - 7 Jewel Neopixel (https://www.adafruit.com/product/2859 )  This goes into the lens disc hole
 
-- Adafruit LED Sequins - Emerald Green, Pack of 5 (this is the light for the rod and the night light I used 3) https://www.adafruit.com/product/1756
+- Adafruit LED Sequins - Emerald Green, Pack of 5 (these are 3 of the lights I used for the rod and the night light) https://www.adafruit.com/product/1756
 
 - Mini On/Off button (https://www.adafruit.com/product/3870) Power button. If you choose to use a different button, hot glue is your friend, or 3D print some to 
   compensate the size.
