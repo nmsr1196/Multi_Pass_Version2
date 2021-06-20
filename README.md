@@ -29,7 +29,7 @@ refer to VERSION 1 because there are some things that are similar. All files nee
 
 #### CODE: 
 
-THIS PROJECT USES CIRCUITPYTHON.
+THIS PROJECT USES CIRCUITPYTHON 6.3.0 VERSION
 
 The code file ‘Multipass_V2.py’ has to be changed to ‘code.py’ for the QT Py 2040. Also in the code ignore the two lines 'button'. Its not being used in the code
 
